@@ -1,0 +1,86 @@
+{
+  "Header": {
+    "title": "American Airlines Co-Pilot",
+    "paragraph": "AI assistant, Itenerary planner, Flight tracker."
+  },
+  "About": {
+    "paragraph": "American Airlines Co-Pilot was made by users for users and consumers of American Airlines app, it seeks to bring more quality of life features to the app and strengthen brand loyalty through them.",
+    "Why": [
+      "User-Focused Design.",
+      "Enhanced Convenience.",
+      "Strengthened Loyalty.",
+      "Reliable Assistance."
+    ],
+    "Why2": [
+      "Built by users for users, ensuring features are practical and enhance your travel experience.",
+      "Provides seamless tools to simplify planning, tracking, and managing your journeys.",
+      "Designed to deepen customer satisfaction and loyalty with American Airlines.",
+      "Features a smart chatbot ready to help you with saved flights and itineraries."
+    ]
+  },
+  "Services": [
+ 
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "Matthew Little",
+      "job": " "
+    },
+    {
+      "img": "img/team/01.jpg",
+      "name": "Matthew Little",
+      "job": " "
+    },
+    {
+      "img": "img/team/01.jpg",
+      "name": "Matthew Little",
+      "job": " "
+    },
+    {
+      "img": "img/team/01.jpg",
+      "name": "Matthew Little",
+      "job": " "
+    },
+    {
+      "img": "img/team/01.jpg",
+      "name": "Matthew Little",
+      "job": " "
+    },
+    {
+      "img": "img/team/01.jpg",
+      "name": "Matthew Little",
+      "job": " "
+    }
+  ],
+  "Contact": {
+    "address": "1200 N Dupont Hwy, Dover, DE 19901 ",
+    "phone": "+1 123 456 1234",
+    "email": "info@company.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "An AI Chatbot",
+      "text": "Built for your travelling needs."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "A realtime flight tracker",
+      "text": "So you never miss a flight."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "An Itenirary Planner",
+      "text": "So you're never bored"
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Efficent Design",
+      "text": "So you can get back to vacationing."
+    }
+  ]
+}
